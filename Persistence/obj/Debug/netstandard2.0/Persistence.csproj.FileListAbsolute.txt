@@ -1,0 +1,11 @@
+C:\Users\Ondrej\Desktop\Performance analyzer\Persistence\bin\Debug\netstandard2.0\Persistence.deps.json
+C:\Users\Ondrej\Desktop\Performance analyzer\Persistence\bin\Debug\netstandard2.0\Persistence.dll
+C:\Users\Ondrej\Desktop\Performance analyzer\Persistence\bin\Debug\netstandard2.0\Persistence.pdb
+C:\Users\Ondrej\Desktop\Performance analyzer\Persistence\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\Ondrej\Desktop\Performance analyzer\Persistence\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\Ondrej\Desktop\Performance analyzer\Persistence\obj\Debug\netstandard2.0\Persistence.csprojAssemblyReference.cache
+C:\Users\Ondrej\Desktop\Performance analyzer\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\Ondrej\Desktop\Performance analyzer\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfo.cs
+C:\Users\Ondrej\Desktop\Performance analyzer\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CopyComplete
+C:\Users\Ondrej\Desktop\Performance analyzer\Persistence\obj\Debug\netstandard2.0\Persistence.dll
+C:\Users\Ondrej\Desktop\Performance analyzer\Persistence\obj\Debug\netstandard2.0\Persistence.pdb
