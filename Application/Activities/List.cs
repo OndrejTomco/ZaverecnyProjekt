@@ -8,24 +8,24 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Application.Workouts
+namespace Application.Activities
 {
     public class List
     {
-        public class Query : IRequest<List<Workout>> { }
+        public class Query : IRequest<List<Activity>> { }
 
-        public class Handler : IRequestHandler<Query, List<Workout>>
+        public class Handler : IRequestHandler<Query, List<Activity>>
         {
             private readonly DataContext _context;
             public Handler(DataContext context)
             {
                 _context = context;
             }
-            public async Task<List<Workout>> Handle(Query request, CancellationToken cancellationToken)
+            public async Task<List<Activity>> Handle(Query request, CancellationToken cancellationToken)
             {
-                var workouts = await _context.Workouts.ToListAsync();
+                var activities = await _context.Activities.ToListAsync();
 
-                return workouts;
+                return activities;
             }
         }
     }

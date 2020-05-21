@@ -17,21 +17,21 @@ namespace Persistence
                     new Workout
                     {
                         Description = "Workout 1",
-                        Duration = TimeSpan.FromHours(1),
+                        Duration = "1:00:00",
                         Rpe = 2
                     },
 
                     new Workout
                     {
                         Description = "Workout 2",
-                        Duration = TimeSpan.FromHours(2),
+                        Duration = "1:00:00",
                         Rpe = 3
                     },
 
                     new Workout
                     {
                         Description = "Workout 3",
-                        Duration = TimeSpan.FromHours(3),
+                        Duration = "1:00:00",
                         Rpe = 4
                     },
                 };

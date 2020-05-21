@@ -5,8 +5,9 @@ namespace Domain
 	{
 		public Guid Id { get; set; }
 		public string Description { get; set; }
-		public TimeSpan Duration { get; set; }
+		public string Duration { get; set; }
 		public int Rpe { get; set; }
+		public DateTime Date { get; set; }
 		
 	}
 }
